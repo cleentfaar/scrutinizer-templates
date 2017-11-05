@@ -1,7 +1,7 @@
 scrutinizer-templates
 =====================
 
-A collection of Scrutinizer configuration templates, customized for specific frameworks and software packages.
+A collection of Scrutinizer configuration templates, customized for specific frameworks and software packages. [Scrutinizer](https://scrutinizer-ci.com/)? - Helps you to improve code quality and find bugs before they hit production with an continuous inspection platform.
 
 You can grab the one for the framework you are using so that you instantly have the proper coding standards checked
 in your Scrutinizer inspections.
@@ -15,4 +15,4 @@ Currently, templates are available for the following software packages:
 - [Drupal 8](https://drupal.org) ([project](drupal-8.yml))
 - [Zend Framework 1](https://framework.zend.com) ([project](scrutinizer-zend-framework-1.yml))
 - [Zend Framework 2](https://framework.zend.com) ([project](scrutinizer-zend-framework-2.yml))
-- [Wordpress](https://wordpress.org) ([project](scrutinizer-wordpress.yml) | [plugin/theme](scrutinizer-wordpress-plugin-or-theme.yml))
+- [WordPress](https://wordpress.org) ([project](scrutinizer-wordpress.yml) | [plugin/theme](scrutinizer-wordpress-plugin-or-theme.yml))
